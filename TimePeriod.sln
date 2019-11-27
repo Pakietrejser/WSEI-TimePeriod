@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeDemo", "TimeDemo\TimeDemo.csproj", "{C6CEB194-55C9-4CA6-A7D2-271C91F2D5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{F437D8C9-8587-44CE-8996-8D70841A9934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLibrary", "TimeLibrary\TimeLibrary.csproj", "{908B4D11-84B6-40EA-B223-7F0536650085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CEB194-55C9-4CA6-A7D2-271C91F2D5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CEB194-55C9-4CA6-A7D2-271C91F2D5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CEB194-55C9-4CA6-A7D2-271C91F2D5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CEB194-55C9-4CA6-A7D2-271C91F2D5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F437D8C9-8587-44CE-8996-8D70841A9934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F437D8C9-8587-44CE-8996-8D70841A9934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F437D8C9-8587-44CE-8996-8D70841A9934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F437D8C9-8587-44CE-8996-8D70841A9934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908B4D11-84B6-40EA-B223-7F0536650085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908B4D11-84B6-40EA-B223-7F0536650085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908B4D11-84B6-40EA-B223-7F0536650085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908B4D11-84B6-40EA-B223-7F0536650085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
